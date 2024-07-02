@@ -1,4 +1,3 @@
-
 WAV BellRide "BellRide.wav" 2
 WAV BellTree "BellTree.wav" 2
 WAV BongoRim "BongoRim.wav" 2
@@ -14,10 +13,10 @@ WAV Crsh2 "Crsh2.wav" 2
 WAV FlrStudio "FlrStudio.wav" 2
 WAV GuiroDown "GuiroDown.wav" 2
 WAV GuiroUp "GuiroUp.wav" 2
-WAV Hi-HatClosed "Hi-HatClosed.wav" 2
-WAV Hi-HatFoot "Hi-HatFoot.wav" 2
-WAV Hi-HatHalf-Open "Hi-HatHalf-Open.wav" 2
 WAV HiStudio "HiStudio.wav" 2
+WAV Hi_HatClosed "Hi_HatClosed.wav" 2
+WAV Hi_HatFoot "Hi_HatFoot.wav" 2
+WAV Hi_HatHalf_Open "Hi_HatHalf_Open.wav" 2
 WAV HighAgogo "HighAgogo.wav" 2
 WAV HighConga "HighConga.wav" 2
 WAV HighQ "HighQ.wav" 2
@@ -37,8 +36,8 @@ WAV MdHiStudio "MdHiStudio.wav" 2
 WAV MdStudio "MdStudio.wav" 2
 WAV MetronomeBell "MetronomeBell.wav" 2
 WAV MetronomeClick "MetronomeClick.wav" 2
-WAV Piccolo1-1 "Piccolo1-1.wav" 2
-WAV Piccolo1-2 "Piccolo1-2.wav" 2
+WAV Piccolo1_1 "Piccolo1_1.wav" 2
+WAV Piccolo1_2 "Piccolo1_2.wav" 2
 WAV QuicaHi "QuicaHi.wav" 2
 WAV QuicaLow "QuicaLow.wav" 2
 WAV Ride1 "Ride1.wav" 2
@@ -51,10 +50,10 @@ WAV ShortWhistle "ShortWhistle.wav" 2
 WAV Slap "Slap.wav" 2
 WAV SleighBells "SleighBells.wav" 2
 WAV SmallShaker "SmallShaker.wav" 2
-WAV Snr1-1 "Snr1-1.wav" 2
-WAV Snr1-2 "Snr1-2.wav" 2
-WAV Snr2-1 "Snr2-1.wav" 2
-WAV Snr2-2 "Snr2-2.wav" 2
+WAV Snr1_1 "Snr1_1.wav" 2
+WAV Snr1_2 "Snr1_2.wav" 2
+WAV Snr2_1 "Snr2_1.wav" 2
+WAV Snr2_2 "Snr2_2.wav" 2
 WAV Splash "Splash.wav" 2
 WAV SquareClick "SquareClick.wav" 2
 WAV StdKick "StdKick.wav" 2
