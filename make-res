@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# WAV hat1_16k "hat1.wav" 2
+
+echo "" > samples.res
+
+for filepath in 8bit/*.wav; do
+	filename="${filepath##*/}"
+	echo "WAV ${filename%%.*} \"$filename\" 2" >> samples.res
+done
+
