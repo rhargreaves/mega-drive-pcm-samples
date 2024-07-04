@@ -5,6 +5,6 @@ touch samples.res
 
 for filepath in samples/8bit/*.wav; do
 	filename="${filepath##*/}"
-	echo "WAV ${filename%%.*} \"$filename\" 2" >> samples.res
+	echo "WAV ${filename%%.*} \"samples/$filename\" 2" >> samples.res
 done
 
